@@ -1,0 +1,15 @@
+D:\Dropbox\UT\Master\DS2\OpenRepo\GitHub\DataScience2016\Scripts\XMLDB\bin\Debug\XMLDB.exe.config
+D:\Dropbox\UT\Master\DS2\OpenRepo\GitHub\DataScience2016\Scripts\XMLDB\bin\Debug\XMLDB.exe
+D:\Dropbox\UT\Master\DS2\OpenRepo\GitHub\DataScience2016\Scripts\XMLDB\bin\Debug\XMLDB.pdb
+D:\Dropbox\UT\Master\DS2\OpenRepo\GitHub\DataScience2016\Scripts\XMLDB\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\Dropbox\UT\Master\DS2\OpenRepo\GitHub\DataScience2016\Scripts\XMLDB\bin\Debug\saxon9he-api.dll
+D:\Dropbox\UT\Master\DS2\OpenRepo\GitHub\DataScience2016\Scripts\XMLDB\bin\Debug\saxon9he.dll
+D:\Dropbox\UT\Master\DS2\OpenRepo\GitHub\DataScience2016\Scripts\XMLDB\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\Dropbox\UT\Master\DS2\OpenRepo\GitHub\DataScience2016\Scripts\XMLDB\bin\Debug\IKVM.Runtime.dll
+D:\Dropbox\UT\Master\DS2\OpenRepo\GitHub\DataScience2016\Scripts\XMLDB\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\Dropbox\UT\Master\DS2\OpenRepo\GitHub\DataScience2016\Scripts\XMLDB\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\Dropbox\UT\Master\DS2\OpenRepo\GitHub\DataScience2016\Scripts\XMLDB\bin\Debug\IKVM.OpenJDK.Charsets.dll
+D:\Dropbox\UT\Master\DS2\OpenRepo\GitHub\DataScience2016\Scripts\XMLDB\bin\Debug\saxon9he-api.xml
+D:\Dropbox\UT\Master\DS2\OpenRepo\GitHub\DataScience2016\Scripts\XMLDB\obj\Debug\XMLDB.csprojResolveAssemblyReference.cache
+D:\Dropbox\UT\Master\DS2\OpenRepo\GitHub\DataScience2016\Scripts\XMLDB\obj\Debug\XMLDB.exe
+D:\Dropbox\UT\Master\DS2\OpenRepo\GitHub\DataScience2016\Scripts\XMLDB\obj\Debug\XMLDB.pdb

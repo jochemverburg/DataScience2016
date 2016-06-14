@@ -1,0 +1,1 @@
+doc("activities.xml")/Activities/Activity[descendant::TOM='true']
